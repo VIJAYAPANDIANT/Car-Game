@@ -1,9 +1,13 @@
+<div align="center">
+  
 # 🏎️ Drive Mad
 
 > **Navigate treacherous tracks filled with obstacles in this thrilling, physics-based car game.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-blue.svg)](#)
+
+</div>
 
 ## 🎯 Overview
 
